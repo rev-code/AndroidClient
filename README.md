@@ -1,5 +1,10 @@
 # AndroidClient
 
+
+A client-based remote administration tool to be used for communication with a web-interface.
+
+--------------------
+
 The provided source code may be used freely. No license needed.
 Enjoy!
 
